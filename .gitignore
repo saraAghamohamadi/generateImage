@@ -1,0 +1,4 @@
+db.sqlite3
+.env
+generated_images
+generated_images/
